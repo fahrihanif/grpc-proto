@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package hello;
 
-// replace this with your own github username and repo
+// replace this with your own github username and repository
 // github.com/<username>/<repo>/protogen/go/... 
 option go_package = "github.com/fahrihanif/grpc-proto/protogen/go/hello";
 
